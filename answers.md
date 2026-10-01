@@ -71,7 +71,7 @@ Inconvénient : il ne peut pas s'adapter à la tache.
 
 ## Part 4: HIL-SERL with interventions
 
-![noHIL vs HIL](runs/plots/GROUP_noHIL_vs_HIL.png)
+![noHIL vs HIL](runs/plots/nath_noHIL_vs_HIL.png)
 
 | Run | First success (min) | Min to rolling reward ≥ 0.8 | Interventions | Human effort (s) |
 | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ Effort humain total : 300 s (5 min). Comme il n’y a eu qu’un seul succès, i
 
 **Q5.1 Hypothesis (written before the run):** Fewer, noisier demos slow down learning.
 
-![HIL vs experiment](runs/plots/GROUP_HIL_vs_expX.png)
+![HIL vs experiment](runs/plots/nath_HIL_vs_expC.png)
 
 | Run | First success (min) | Min to rolling reward ≥ 0.8 | Interventions | Human effort (s) |
 | --- | --- | --- | --- | --- |
