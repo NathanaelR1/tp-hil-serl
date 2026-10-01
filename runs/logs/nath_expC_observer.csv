@@ -1,0 +1,12 @@
+wall_time,minutes,kind,value,note
+2026-10-01T19:56:42,0.0,start,,
+2026-10-01T19:57:44,1.03,first_success,,
+2026-10-01T20:02:35,5.88,successes_last10,1,
+2026-10-01T20:06:14,9.53,intervention,120.0,away
+2026-10-01T20:07:24,10.69,successes_last10,2,
+2026-10-01T20:09:08,12.42,intervention,120.0,away
+2026-10-01T20:13:19,16.61,successes_last10,2,
+2026-10-01T20:16:45,20.04,intervention,120.0,?
+2026-10-01T20:18:32,21.83,successes_last10,2,
+2026-10-01T20:22:28,25.77,successes_last10,2,
+2026-10-01T20:23:28,26.75,stop,,

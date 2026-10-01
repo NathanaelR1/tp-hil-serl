@@ -1,0 +1,13 @@
+wall_time,minutes,kind,value,note
+2026-10-01T19:03:23,0.0,start,,
+2026-10-01T19:04:33,1.16,first_success,,
+2026-10-01T19:09:17,5.89,successes_last10,1,
+2026-10-01T19:13:45,10.35,intervention,120.0,moving away from cube
+2026-10-01T19:14:10,10.79,successes_last10,0,
+2026-10-01T19:18:02,14.65,intervention,120.0,away
+2026-10-01T19:19:50,16.44,successes_last10,0,
+2026-10-01T19:19:56,16.55,intervention,60.0,away
+2026-10-01T19:25:34,22.18,successes_last10,0,
+2026-10-01T19:29:57,26.57,successes_last10,0,
+2026-10-01T19:36:34,33.18,successes_last10,1,
+2026-10-01T19:37:45,34.36,stop,,
